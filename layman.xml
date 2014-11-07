@@ -2,10 +2,11 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
 	<repo quality="experimental" status="unofficial">
-		<name><![CDATA[manicstar]]></name>
-		<description lang="en"><![CDATA[Manicstar's Gentoo Overlay]]></description>
+		<name>manicstar></name>
+		<description lang="en">Manicstar's Gentoo Overlay</description>
 		<homepage>https://github.com/manicstar/gentoo-overlay</homepage>
 		<owner type="person">
+			<name>manicstar</name>
 			<email>manicstar@users.noreply.github.com</email>
 		</owner>
 		<source type="git">git://github.com/manicstar/gentoo-overlay.git</source>
