@@ -2,7 +2,7 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
 	<repo quality="experimental" status="unofficial">
-		<name>manicstar></name>
+		<name>manicstar</name>
 		<description lang="en">Manicstar's Gentoo Overlay</description>
 		<homepage>https://github.com/manicstar/gentoo-overlay</homepage>
 		<owner type="person">
